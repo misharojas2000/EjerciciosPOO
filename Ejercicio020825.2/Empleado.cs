@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ejercicio020825._2
+namespace Herencia._2
 {
     internal class Empleado
     {

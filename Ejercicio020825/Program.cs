@@ -1,5 +1,5 @@
 ﻿using System;
-using Ejercicio020825;
+using Encapsulamiento;
 
 Empleado e1 = new Empleado();
 e1.Nombre = "Mishell";
